@@ -1,0 +1,28 @@
+#pastel{
+    font-size: 42px;
+}
+
+#pastel1{
+    font-size: 42px;
+}
+#budin{
+    font-size: 42px;
+}
+#budin1{
+    font-size: 42px;
+}
+.h2h3{
+    font-size: 30px;
+    color: aqua;
+
+}
+
+ul, ol{
+    color: #5c8a28;
+    font-size: 21px;
+}
+
+p, a{
+    font-size: 21px;
+    color: #d8b310;
+}
