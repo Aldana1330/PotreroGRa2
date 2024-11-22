@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Georgia&family=Verdana&display=swap');
+
+body {
+    background-color: beige;
+}
+
+* {
+    border: 2px dashed brown;
+    margin: 10px;
+    padding: 10px;
+}
+
+#pastel, #pastel1, #budin, #budin1 {
+    font-family: Georgia, serif;
+    color: darkred;
+    border: 3px solid darkred;
+}
+
+p {
+    font-family: Verdana, sans-serif;
+    color: saddlebrown;
+    border: 2px dotted olive;
+}
+
+a {
+    font-family: Verdana, sans-serif;
+    color: darkgreen;
+    border: 2px solid darkgreen;
+    text-decoration: none;
+}
+
+ul, ol {
+    font-family: Verdana, sans-serif;
+    color: chocolate;
+    border: 2px groove goldenrod;
+}
